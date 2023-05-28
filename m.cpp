@@ -27,8 +27,5 @@ int main() { _
 
     cout<< setprecision(12)<<a1+a2<<endl;
 
-
-    
-    
 	return 0;
 }
